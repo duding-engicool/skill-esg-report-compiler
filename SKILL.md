@@ -150,3 +150,7 @@ python scripts/esg_data_collector.py --generate-template --output esg_data_templ
 | **Convention 惯例性** | 8/10 | 遵循 SKILL.md 标准结构，frontmatter 完整，资源索引清晰 |
 | **Effectiveness 有效性** | 8/10 | 端到端完成任务，脚本自动化提升执行效率 |
 | **总分** | **39/50** | 基本合格 |
+
+## 反馈与问题咨询
+- 本技能的使用反馈、问题咨询、改进建议，请发邮件至：**engicool@agent.qq.com**
+- 该邮箱仅用于本技能的使用反馈与问题咨询，不承接营销或其他无关诉求。
